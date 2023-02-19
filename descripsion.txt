@@ -1,0 +1,8 @@
+Una aseguradora nos contacto parar poder realizar un programa que realice las cotizaciones mas rapidas de lo que se hace dandonos varios puntos que nosotros debemos cumplir, entre ellos estan: que debe de ser una persona mayor de edad para poder ser asegurado, asi como la aplicacion de los recargos que son costos extras que pone la aseguradora dependiendo de la cantidad de personas que sean beneficiarias de este como lo seria la familia del afectado tanto su conyugue como sus hijos en caso de no tener no se puede adicionar nigun recargo.
+
+Otro punto importante es que los seguros deben ser dependiendo de la edad de la persona que ira aumentando si el asegurado es aun mayor como por ejemplo si pasa lo 18 a;os pero no lo 25 entonces tengra un recargo de 20% si en lugar de eso tiene mas de 25 a;os pero tiene menos de 50 a;os el recargo que se aplicara sera del 30% ahora si la persona es mayor de 50 a;os tengra un recargo de 30% sin ningun aumento a partir de este ultimo.
+
+Un punto mas a tomar en cuenta es que si esta casado/a la cantidad que debe aumentarse igualmente sera dependiendo a la edad de la pareja, esta al igual que la del asegurado tiene las mismas condiciones respecto al rango de edad al que aplicaran los recargos de 10%,20% y 30%.
+
+El asegurado tambien debe tomar en cuenta que dependiendo de la cantidad de hijos que tenga se le aplicara un recargo del 20% este sin importar la edad del hijo. 
+Con todos estos puntos sabemos que preguntas debemos hacerle para que el monto a pagar por su seguro sea el adecuado.
